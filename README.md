@@ -62,8 +62,6 @@
 
 
 #### 联系我们
-- 官方网站：[www.feifeicms.org](https://www.feifeicms.org)
-- 交流论坛：[bbs.daicuo.net](http://daicuo.co/forum.php?gid=44)
 - **更多资源：👉 [低端影视](https://ddys.io)**
 
 #### 参与贡献
